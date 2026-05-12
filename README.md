@@ -1,125 +1,98 @@
-# <p align="center">⚡ TERMUX WEB DEVELOPER ELITE ⚡</p>
+# <p align="center">🔥 BOCHILTEAM DDOS 2026 🔥</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshick/mshick/master/images/hi.gif" width="30">
-  <b>Welcome, To My Readme</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Aesthetic-blueviolet?style=for-the-badge&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Main_Device-Android_Termux-orange?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/Version-2.0.4--Alpha-ff69b4?style=for-the-badge">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BOCHILTEAM%20PROJECT&fontSize=70&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wanz8creator&label=PROFILE%20VIEWS&style=flat-square&color=blue">
-  <img src="https://img.shields.io/github/followers/wanz8creator?label=Followers&style=flat-square">
-  <img src="https://img.shields.io/github/stars/wanz8creator?label=Total%20Stars&style=flat-square">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/SECURITY-PROTECTED-red?style=for-the-badge&logo=target">
+  <img src="https://img.shields.io/badge/Developer-Bochilteam-ff69b4?style=for-the-badge">
 </p>
 
 ---
 
-### 🧑‍💻 Who is this?
-> **"Mending rakit kodingan daripada rakit PC (soalnya gak ada budgetnya, fr fr 💀)"**
+### ⚡ OVERVIEW
+> **"Koding di Termux bukan gaya-gayaan, ini tentang kebebasan! No PC? Keep Slay! 💅"**
 
-Aku adalah seorang **Fullstack Mobile Web Developer** yang hidup di dalam ekosistem **Termux**. Bisa ngoding sambil rebahan, makan seblak, atau nunggu antrian boba. Gak perlu laptop gaming buat jadi sepuh koding, cukup Android + niat + `pkg install` sampai mampus! 💅✨
-
----
-
-### 🚀 Tech Stack & Skills (The Flex Section)
-#### 🌐 Frontend & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js_v24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</p>
-
-#### ⚙️ Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</p>
+Script **BochilteamDdos2026** ini dirancang khusus untuk berjalan di lingkungan **Termux**. Menggunakan Node.js terbaru untuk performa yang gahar dan stabil. *Fr fr, no cap!* 🧢🔥
 
 ---
 
-### 📂 Showcase Code (My Daily Grind) 
+### 🛠️ LANGKAH INSTALASI (ANTI ERROR)
+Ikuti urutan *command* di bawah ini satu per satu. Jangan ada yang kelewat biar gak *L-Ratio* 💀.
 
-#### 🐍 Python Script (Automating Everything)
-```python
-def check_vibes():
-    status = "Coding"
-    mood = "Slay 💅"
-    if status == "Coding":
-        print(f"Current Mood: {mood} - No Cap!")
-
-check_vibes()
+#### 1️⃣ Step One: Perbarui Sistem
+Biar gak ada konflik antar package, kita segerakan dulu sistemnya.
+```bash
+apt update && apt upgrade -y
 
 ```
 
-#### ☕ JavaScript (Node.js v24 Energy)
+#### 2️⃣ Step Two: Pasang Node.js
 
-```javascript
-const dev = {
-    os: "Android/Termux",
-    env: "Node.js v24",
-    message: () => console.log("System Running Smoothly, Fr! 🚀")
-};
-
-dev.message();
-
-```
-
-#### 🏗️ C++ (The Hardcore Side)
-
-```cpp
-#include <iostream>
-int main() {
-    std::cout << "Termux is my Kingdom!" << std::endl;
-    return 0;
-}
-
-```
-
----
-
-### 📦 How to Run My Scripts
-
-Pastikan Termux kamu sudah di-*upgrade* ke versi paling baru biar gak *L-Ratio* 💀:
+Mesin utama untuk menjalankan script JS kamu.
 
 ```bash
-# Update System
-pkg update && pkg upgrade -y
+apt install nodejs -y
 
-# Setup Storage
-termux-setup-storage
+```
 
-# Install Essentials
-pkg install nodejs git python clang make -y
+#### 3️⃣ Step Three: Pasang FFmpeg
 
-# Clone & Run
-git clone [https://github.com/USERNAME_KAMU/NAMA_REPO](https://github.com/USERNAME_KAMU/NAMA_REPO)
-cd NAMA_REPO
-npm install
-node index.js
+Wajib ada! Terutama buat kamu yang butuh konversi ke format **WebP (Stiker)** atau media lainnya.
 
+```bash
+apt install ffmpeg -y
+
+```
+
+#### 4️⃣ Step Four: Pasang Git
+
+Buat narik script dari awan ke penyimpanan HP kamu.
+
+```bash
+apt install git -y
+
+```
+
+#### 5️⃣ Step Five: Cloning Repo
+
+Waktunya mendaratkan script ke markas!
+
+```bash
+git clone [https://github.com/wanz8creator/BochilteamDdos2026.git](https://github.com/wanz8creator/BochilteamDdos2026.git)
+
+```
+
+#### 🚀 Running The Script
+
+Setelah clone, masuk ke folder dan hajar!
+
+```bash
+cd BochilteamDdos2026
 ```
 
 ---
 
-### 📊 GitHub Stats (Live Action)
+#### 🛜 Install Dulu
+
+Setelah cd BochilteamDdos2026 Lalu Ini
+```bash
+npm install
+```
 
 ---
+#### 🚀 Gas Langsung Start
 
-### 📱 Get In Touch (Support Contact) 📞
-
-Lagi butuh bantuan script atau mau collab project skena? Klik logo di bawah, langsung meluncur! 🚀
-
+Setelah npm install Lalu Ini
+```bash
+npm start
+```
 ---
+
+### 📱 CONTACT SUPPORT (HUBUNGI SEPUH) 📞
+
+Ada kendala? Error pas instal? Klik logo di bawah, jangan jadi hantu! 👻
 
 <p align="center">
   <a href="https://wa.me/6282235584282" target="_blank">
