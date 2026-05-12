@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=PROFILE%20VIEWS&style=flat-square&color=blue">
-  <img src="https://img.shields.io/github/followers/USERNAME_KAMU?label=Followers&style=flat-square">
-  <img src="https://img.shields.io/github/stars/USERNAME_KAMU?label=Total%20Stars&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=wanz8creator&label=PROFILE%20VIEWS&style=flat-square&color=blue">
+  <img src="https://img.shields.io/github/followers/wanz8creator?label=Followers&style=flat-square">
+  <img src="https://img.shields.io/github/stars/wanz8creator?label=Total%20Stars&style=flat-square">
 </p>
 
 ---
@@ -111,19 +111,12 @@ node index.js
 
 ---
 
-### 📊 Git Stats (Real One)
+### 📊 GitHub Stats (Live Action)
 
 ---
 
-### 📱 Get In Touch (Don't Be A Ghost 👻)
+### 📱 Get In Touch (Support Contact) 📞
 
-Lagi butuh bantuan script atau mau collab project skena? Hubungi lewat sini:
-
-| Platform | Link |
-| --- | --- |
-| **WhatsApp** | [](https://www.google.com/search?q=https://wa.me/6282235584282) |
-| **TikTok** | [](https://www.google.com/search?q=https://tiktok.com/%40username12345ma0) |
-| **Telegram** | [](https://www.google.com/search?q=https://t.me/bochilteam) |
-| **Email** | [](support@wanhost.biz.id) |
+Lagi butuh bantuan script atau mau collab project skena? Klik logo di bawah, langsung meluncur! 🚀
 
 ---
