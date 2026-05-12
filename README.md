@@ -1,7 +1,7 @@
 # <p align="center">⚡ TERMUX WEB DEVELOPER ELITE ⚡</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mshick/mshick/master/images/hi.gif" width="30"> 
-  <b>Wassup, World! Welcome to my digital sanctuary.</b>
+  <img src="https://raw.githubusercontent.com/mshick/mshick/master/images/hi.gif" width="30">
+  <b>Welcome, To My Readme</b>
 </p>
 
 <p align="center">
@@ -118,5 +118,19 @@ node index.js
 ### 📱 Get In Touch (Support Contact) 📞
 
 Lagi butuh bantuan script atau mau collab project skena? Klik logo di bawah, langsung meluncur! 🚀
+
+---
+
+<p align="center">
+  <a href="https://wa.me/6282235584282" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.tiktok.com/@username12345ma0" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="support@wanhost.biz.id" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
