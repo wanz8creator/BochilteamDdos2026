@@ -128,9 +128,9 @@ Lagi butuh bantuan script atau mau collab project skena? Klik logo di bawah, lan
   <a href="https://www.tiktok.com/@username12345ma0" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="support@wanhost.biz.id" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="mailto:support@wanhost.biz.id">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
 
 ---
