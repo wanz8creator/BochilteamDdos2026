@@ -1,4 +1,3 @@
-```markdown
 # <p align="center">⚡ TERMUX WEB DEVELOPER ELITE ⚡</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mshick/mshick/master/images/hi.gif" width="30"> 
@@ -122,9 +121,9 @@ Lagi butuh bantuan script atau mau collab project skena? Hubungi lewat sini:
 
 | Platform | Link |
 | --- | --- |
-| **WhatsApp** | [](https://www.google.com/search?q=https://wa.me/NOMOR_WA_KAMU) |
-| **TikTok** | [](https://www.google.com/search?q=https://tiktok.com/%40USERNAME_KAMU) |
-| **Instagram** | [](https://www.google.com/search?q=https://instagram.com/USERNAME_KAMU) |
-| **Email** | []() |
+| **WhatsApp** | [](https://www.google.com/search?q=https://wa.me/6282235584282) |
+| **TikTok** | [](https://www.google.com/search?q=https://tiktok.com/%40username12345ma0) |
+| **Telegram** | [](https://www.google.com/search?q=https://t.me/bochilteam) |
+| **Email** | [](support@wanhost.biz.id) |
 
 ---
