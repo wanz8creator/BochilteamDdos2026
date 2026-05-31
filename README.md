@@ -60,7 +60,7 @@ apt install git -y
 Waktunya mendaratkan script ke markas!
 
 ```bash
-git clone [https://github.com/wanz8creator/BochilteamDdos2026.git](https://github.com/wanz8creator/BochilteamDdos2026.git)
+git clone https://github.com/wanz8creator/BochilteamDdos2026.git
 
 ```
 
